@@ -1,5 +1,5 @@
 
-# 🐍 Img2WebP
+# 🐍 Images2WebP
 
 This tool converts old fashion image types to modern WEBP format.
 
